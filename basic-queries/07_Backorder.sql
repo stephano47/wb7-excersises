@@ -1,0 +1,1 @@
+SELECT * FROM northwind.products where UnitsInStock =0 AND UnitsOnOrder >1 order by ProductName;

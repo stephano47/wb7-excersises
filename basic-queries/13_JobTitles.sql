@@ -1,0 +1,1 @@
+SELECT distinct(Title) FROM northwind.employees;

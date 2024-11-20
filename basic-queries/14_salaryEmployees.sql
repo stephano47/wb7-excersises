@@ -1,0 +1,1 @@
+SELECT EmployeeID, LastName, Title, Salary FROM northwind.employees WHERE Salary BETWEEN 2000 and 2500;
